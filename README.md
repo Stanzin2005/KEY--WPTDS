@@ -1,5 +1,5 @@
 # KEYWORDS
-1.**operating system:**<body>Some Important and Commonly used keywords 
+<body>Some Important and Commonly used keywords 
 Basic Terms and Definitions related to Computer Science, useful for anyone starting or Just looking out.
 
 <h1>**HARDWARE TERMS**</h1><br>
