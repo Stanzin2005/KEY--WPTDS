@@ -18,7 +18,7 @@ CPU means ‘Central Processing Unit’. This is the place of computer data hand
 A graphics processing unit (GPU) is a specialized electronic circuit initially designed for digital image processing and to accelerate computer graphics, being present either as a discrete video card or embedded on motherboards, mobile phones, personal computers, workstations, and game consoles.
 
 <h2><b>4.APUs (Accelerated Processing Units)</b></h2><br>
-<img src="https://github.com/user-attachments/assets/5b73509d-e014-47a3-9286-7904b1498e26"><br>
+
 An accelerated processing unit (APU) is a microprocessor that combines the central processing unit (CPU) with the graphics processing unit (GPU) on a single computer chip.
 
 <h2><b>5.DPUs (Data Processing Units)</b></h2><br>
@@ -31,7 +31,7 @@ Specifically, RAM stands for “Random Access Memory” or “Ready Access Memor
 An AI accelerator, deep learning processor or neural processing unit (NPU) is a class of specialized hardware accelerator[1] or computer system designed to accelerate artificial intelligence and machine learning applications, including artificial neural networks and computer vision. Typical applications include algorithms for robotics, Internet of Things, and other data-intensive or sensor-driven tasks.
 
 <h2><b>8.CISCS (Computer Instruction Set Commands)</b></h2><br>
-<img src="https://github.com/user-attachments/assets/8aff1e8a-8c33-4361-8a05-3059c49f387a"><br>
+
 A complex instruction set computer (CISC) is a computer architecture in which single instructions can execute several low-level operations or are capable of multi-step operations.
 
 <h2><b>9.RISCs (Reduced Instruction Set Commands)</b></h2><br>
