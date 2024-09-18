@@ -35,7 +35,6 @@ An AI accelerator, deep learning processor or neural processing unit (NPU) is a 
 A complex instruction set computer (CISC) is a computer architecture in which single instructions can execute several low-level operations or are capable of multi-step operations.
 
 <h2><b>9.RISCs (Reduced Instruction Set Commands)</b></h2><br>
-<img src="https://github.com/user-attachments/assets/7a199e85-df0f-4549-bb75-ddf7953510a9"><br>
 In electronics and computer science, a reduced instruction set computer (RISC) is a computer architecture designed to simplify the individual instructions given to the computer to accomplish tasks. Compared to the instructions given to a complex instruction set computer (CISC), a RISC computer might require more instructions (more code) in order to accomplish a task because the individual instructions are written in simpler code.
 
 <h2><b>10.RISC-V</b></h2><br>
@@ -47,7 +46,7 @@ A system on a chip or system-on-chip is an integrated circuit that integrates mo
 
 
 <h1><b>**SOFTWARE**</b></h1><br>
-<img src="https://github.com/user-attachments/assets/a77bb36d-4957-4b77-b850-c0107cc08ded">
+
 Software consists of computer programs that instruct the execution of a computer.
 
 <h2><b>1.OS (Operating System)</b></h2><br>
@@ -60,7 +59,7 @@ In computing, BIOS (Basic Input/Output System, also known as the System BIOS, RO
 Virtual machines (VMs) allow a business to run an operating system that behaves like a completely separate computer in an app window on a desktop. VMs may be deployed to accommodate different levels of processing power needs, to run software
 
 <h2><b>5.Kernel</b></h2><br>
-<img src="https://github.com/user-attachments/assets/a5c89bf1-50c0-4472-9fec-b0495ccbe400"> <br>
+<br>
 The kernel is a computer program at the core of a computer's operating system and generally has complete control over everything in the system. The kernel is also responsible for preventing and mitigating conflicts between different processes.
 
 <h2><b>6.Cache</b></h2><br>
@@ -73,7 +72,7 @@ In computing, a compiler is a computer program that translates computer code wri
 A debugger or debugging tool is a computer program used to test and debug other programs (the "target" program). The main use of a debugger is to run the target program under controlled conditions that permit the programmer to track its execution and monitor changes in computer resources that may indicate malfunctioning code.
 
 <h2><b>9.DevOps</b></h2><br>
-<img src="https://github.com/user-attachments/assets/ead2fc6a-bff2-4412-8b4a-877f42da09c0"><br>
+
 DevOps is a methodology in the software development and IT industry. Used as a set of practices and tools, DevOps integrates and automates the work of software development (Dev) and IT operations (Ops) as a means for improving and shortening the systems development life cycle.DevOps is complementary to agile software development; several DevOps aspects came from the agile way of working. 
 
 <h2><b>10.Firmware</b></h2><br>
@@ -81,7 +80,6 @@ In computing, firmware is software that provides low-level control of computing 
 
 
 <h1><b>**NETWORK TERMS**</b></h1><br>
-<img src="https://github.com/user-attachments/assets/9675a8c8-cd07-433d-ba54-3a5b86bb2c31">
 <h2><b>1.ISP (Internet Service Provider)</b></h2>>br>
 An Internet service provider (ISP) is an organization that provides myriad services related to accessing, using, managing, or participating in the Internet. ISPs can be organized in various forms, such as commercial, community-owned, non-profit, or otherwise privately owned.
 
@@ -92,7 +90,7 @@ n IP address is a unique set of numbers or combination of letters and numbers th
 IPv6 is the latest version of internet protocol that expands the number of possible IP addresses from the 4.3 billion possible with IPv4 to 340 trillion trillion in order to accommodate unique addresses for every device likely to be attached to the public internet.
 
 <h2><b>4.Dynamic Host Configuration Protocol (DHCP)</b></h2><br>
-<img src="https://github.com/user-attachments/assets/38c2b991-df62-45a2-962a-1bb46e5ac50b"><br>
+
 DHCP stands for dynamic host-configuration protocol, an IP-network protocol  used for a server to automatically assign networked devices with IP addresses on the fly and and share other information to those devices so they can communicate efficiently with other endpoints.
 
 <h2><b>5.DNS (Domain Name System)</b></h2><br>
